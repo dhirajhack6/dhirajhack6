@@ -1,6 +1,34 @@
 <div align="center">
 
-# 🌟 Your Project Name
+# 🌟 About Me
+<div align="center">
+
+# 🌟 About Me
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Learner;Passionate+Coder;Always+Learning+New+Things" />
+
+</div>
+
+---
+
+💻 I'm a **Computer Science Engineering student** passionate about building real-world web applications.
+🚀 I love working with **MERN stack** and exploring new technologies.
+📚 Currently improving my skills in **DSA & Backend Development**.
+🔥 I enjoy solving problems and turning ideas into reality through code.
+
+> ✨ *Always learning. Always building.*
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/github/stars/yourusername/yourrepo?style=for-the-badge&color=yellow">
+<img src="https://img.shields.io/github/forks/yourusername/yourrepo?style=for-the-badge&color=blue">
+<img src="https://img.shields.io/github/issues/yourusername/yourrepo?style=for-the-badge&color=red">
+<img src="https://img.shields.io/badge/Made%20With-❤️-ff69b4?style=for-the-badge">
+
+</div>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+My+Project!;Full+Stack+Developer;Open+Source+Lover" />
 
