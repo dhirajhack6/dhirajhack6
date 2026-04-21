@@ -23,7 +23,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,nodejs,express,mongodb,react,html,css,tailwind,bootstrap,git,github" />
+<img src="https://skillicons.dev/icons?i=c,java,js,nodejs,express,mongodb,react,html,css,tailwind,bootstrap,git,github" />
 
 </p>
 
@@ -55,7 +55,7 @@
 
 <p align="center">
 
-<a href="mailto:your@email.com">
+<a href="dhirajexperiment@email.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
